@@ -109,6 +109,7 @@ make   //直接执行外部的Makefile--它会创建serverbin目录并间接调�
 ![image](https://gitee.com/DouYou-DianShuai/WebServer/raw/main/picture/%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2.png)
 
 ****
+
 ### 致谢
 
 [markparticle/WebServer](https://github.com/markparticle/WebServer)
